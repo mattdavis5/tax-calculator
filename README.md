@@ -1,2 +1,2 @@
-# PersonalFinanceApp
-An application that evaluates your personal finances.
+# Tax-Calculator
+Currently calculates United States federal income tax for single filers.
